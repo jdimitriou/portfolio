@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0%" stop-color="#134e4a"/>
+    <stop offset="100%" stop-color="#14b8a6"/>
+  </linearGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+    <path d="M48 0H0V48" fill="none" stroke="white" stroke-opacity=".08" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="760" fill="url(#g)"/>
+<rect width="1200" height="760" fill="url(#grid)"/>
+<g opacity=".18" fill="none" stroke="white" stroke-width="3">
+  <path d="M90 535 L280 410 L450 465 L615 300 L795 365 L1090 155"/>
+  <rect x="105" y="135" width="270" height="160" rx="8"/>
+  <rect x="840" y="430" width="240" height="155" rx="8"/>
+</g>
+<text x="90" y="620" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Planning Storytelling System</text>
+<text x="90" y="670" fill="white" fill-opacity=".78" font-family="Arial, Helvetica, sans-serif" font-size="24">Information Design</text>
+</svg>
