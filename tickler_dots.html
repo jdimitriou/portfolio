@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Project Field — Portfolio</title>
+
+
+
+
+<link href="styles.css" rel="stylesheet"/></head>
+<body><div class="tickler-view">
+<div class="app">
+<aside class="sidebar">
+<div class="brand">
+<strong>Project Field</strong>
+<a class="portfolio-return" href="index.html">← Portfolio</a>
+      select up to one filter per row to surface matching work
+    </div>
+<div class="filter-group" data-group="domain">
+<h2>DOMAIN</h2>
+<div class="filter-row" data-cat="Professional"><span class="dot professional"></span><span class="label">Professional</span></div>
+<div class="filter-row" data-cat="Academic"><span class="dot academic"></span><span class="label">Academic</span></div>
+<div class="filter-row" data-cat="Personal"><span class="dot personal"></span><span class="label">Personal</span></div>
+</div>
+<div class="filter-group" data-group="role">
+<h2>ROLE</h2>
+<div class="filter-row" data-cat="Principal"><span class="dot professional"></span><span class="label">Principal</span></div>
+<div class="filter-row" data-cat="Collaborator"><span class="dot academic"></span><span class="label">Collaborator</span></div>
+<div class="filter-row" data-cat="Apprentice"><span class="dot personal"></span><span class="label">Apprentice</span></div>
+</div>
+<div class="filter-group" data-group="output">
+<h2>OUTPUT</h2>
+<div class="filter-row" data-cat="Graphics"><span class="dot professional"></span><span class="label">Graphics</span></div>
+<div class="filter-row" data-cat="Places"><span class="dot academic"></span><span class="label">Places</span></div>
+<div class="filter-row" data-cat="Text"><span class="dot personal"></span><span class="label">Text</span></div>
+</div>
+<div class="counts">
+<div><b id="countAll">0</b> total projects</div>
+<div><b id="countSel">0</b> matching current filters</div>
+<button class="reset-btn" id="resetBtn">Clear filters</button>
+</div>
+</aside>
+<div class="field-wrap">
+<canvas id="field"></canvas>
+<div class="tooltip" id="tooltip">
+<div class="thumb" id="ttThumb"></div>
+<div class="ttitle" id="ttTitle"></div>
+<div class="tmeta" id="ttMeta"></div>
+</div>
+<div class="hint">Loose dots drift freely. Pick a filter at left — matches line up on the right; hover to preview, click to open.</div>
+</div>
+</div>
+<div class="modal-backdrop" id="modalBackdrop">
+<div class="modal">
+<div class="modal-hero" id="modalHero">
+<div class="modal-close" id="modalClose">✕</div>
+</div>
+<div class="modal-body">
+<h3 id="modalTitle"></h3>
+<div class="modal-tags" id="modalTags"></div>
+<p id="modalDesc"></p>
+<a class="modal-link" href="#" id="modalLink" rel="noopener" target="_blank">View full project ↗</a>
+</div>
+</div>
+</div>
+
+<script src="tickler.js"></script></div></body>
+</html>

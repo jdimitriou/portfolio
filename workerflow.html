@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>2000 Census County-to-County Worker Flow</title>
+<link href="styles.css" rel="stylesheet"/>
+</head>
+<body>
+<main class="workerflow-view">
+  <div class="workerflow-content">
+    <a class="portfolio-return" href="data-visualizations.html">← Data Visualizations</a>
+    <section aria-label="Interactive worker flow map" class="frame">
+      <div class="canvas-wrap"><canvas aria-label="Interactive map showing county-to-county commuter flows" height="500" id="viz" width="670"></canvas></div>
+      <div class="toolbar">
+        <div class="status" id="status">Select a <strong>Residence</strong> or <strong>Workplace</strong> county.</div>
+        <div aria-label="Legend" class="legend"><span class="key"><span class="dot res"></span>Residence</span><span class="key"><span class="dot work"></span>Workplace</span></div>
+        <button id="reset" type="button">Reset</button>
+      </div>
+    </section>
+    <p class="help">Click a square beside a county to select or deselect it. Select one side to see all flows connected to that county, or select both sides to isolate one origin–destination flow. Hover near a map point to see the county name.</p>
+  </div>
+</main>
+<script src="workerflow.js"></script>
+</body>
+</html>

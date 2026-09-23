@@ -1,0 +1,211 @@
+[
+  {
+    "id": "corridor-urban-design",
+    "title": "The South Frederick Corridors Plan",
+    "category": "Urban Design",
+    "year": 2026,
+    "featured": 1,
+    "location": "Frederick, Maryland",
+    "summary": "A district-scale redevelopment framework for transforming auto-oriented corridors into connected, walkable neighborhoods.",
+    "capabilities": [
+      "Technical and Visual Communication",
+      "Spatial Design",
+      "Systems and Implementation"
+    ],
+    "role": "Lead urban designer / planner",
+    "challenge": "Create a realistic urban structure for incremental redevelopment across fragmented parcels and infrastructure constraints.",
+    "approach": "Developed a street-and-block network, public-space hierarchy, development areas, and implementation logic that could guide parcel-by-parcel change.",
+    "outcome": "A spatial and regulatory framework linking long-range vision to implementable development decisions.",
+    "image": "assets/sfcp_Page_01.png",
+    "page": "south-frederick-corridors-plan.html"
+  },
+  {
+    "id": "form-based-code",
+    "title": "Form-Based Regulatory System",
+    "category": "Urban Design",
+    "year": 2026,
+    "featured": 2,
+    "location": "Frederick County, Maryland",
+    "summary": "A regulatory system translating an urban design vision into predictable standards, diagrams, processes, and implementation tools.",
+    "capabilities": [
+      "Technical and Visual Communication",
+      "Spatial Design",
+      "Systems and Implementation"
+    ],
+    "role": "Planner / code designer",
+    "challenge": "Turn design intent into a regulatory system that is precise enough to administer and simple enough to explain.",
+    "approach": "Combined ordinance writing, process design, diagrams, dimensional standards, and implementation sequencing.",
+    "outcome": "A coordinated system that connects policy, physical design, development review, and long-term implementation.",
+    "image": "assets/frontage-types.png",
+    "page": "regulatory-framework.html"
+  },
+  {
+    "id": "county-comprehensive-plan",
+    "title": "The Livable Frederick Master Plan",
+    "category": "Long-Range Planning",
+    "year": 2019,
+    "featured": 3,
+    "location": "Frederick County, Maryland",
+    "summary": "A long-range policy framework integrating land use, mobility, housing, infrastructure, and community priorities.",
+    "capabilities": [
+      "Technical and Visual Communication",
+      "Spatial Design",
+      "Systems and Implementation"
+    ],
+    "role": "Lead planner / designer",
+    "challenge": "Translate a broad set of community goals, technical inputs, and policy constraints into a coherent long-range framework.",
+    "approach": "Structured the plan around clear policy choices, spatial frameworks, implementation actions, and visual explanations that connect policy to place.",
+    "outcome": "A legible planning framework that supports decision-making, public communication, and future implementation.",
+    "image": "assets/lfmp_cover.png",
+    "page": "livable-frederick-master-plan.html"
+  },
+	{
+    "id": "village-center-design-guidelines",
+    "title": "Village Center Design Guidelines",
+    "category": "Urban Design",
+    "year": 2010,
+    "featured": 5,
+    "location": "Frederick County Maryland",
+    "summary": "A visual companion to Frederick County's Village Center zoning standards that translates regulatory language into clear spatial principles.",
+    "capabilities": [
+      "Technical and Visual Communication",
+      "Systems and Implementation",
+	  "Spatial Design"
+    ],
+    "role": "Architect / urban designer",
+    "challenge": "",
+    "approach": "",
+    "outcome": "",
+    "image": "assets/village-center-design-guide-cover.png",
+    "page": "village-center-design-guide.html"
+  },
+	
+	
+	{
+    "id": "transit-center-urban-design",
+    "title": "Union Station Area Plan",
+    "category": "Urban Design",
+    "year": 2003,
+    "featured": 6,
+    "location": "Worcester, Massachusetts",
+    "summary": "Urban design and implementation study for Worcester Union Station, linking intermodal transportation, circulation, public realm improvements, and surrounding redevelopment.",
+    "capabilities": [
+      "Technical and Visual Communication",
+      "Systems and Implementation",
+	  "Spatial Design"
+    ],
+    "role": "Architect / urban designer",
+    "challenge": "",
+    "approach": "",
+    "outcome": "",
+    "image": "assets/union station plan cover.png",
+    "page": "worcester-union-station.html"
+  },
+	
+	
+	
+	
+	{
+    "id": "town-center-urban-design",
+    "title": "Virginia Beach Town Center",
+    "category": "Urban Design",
+    "year": 2004,
+    "featured": 5,
+    "location": "Virginia Beach, Virginia",
+    "summary": "A design study exploring how mixed uses can be assembled vertically within a connected urban block framework.",
+    "capabilities": [
+      "Technical and Visual Communication",
+      "Systems and Implementation",
+	  "Spatial Design"
+    ],
+    "role": "Architect / urban designer",
+    "challenge": "",
+    "approach": "",
+    "outcome": "",
+    "image": "assets/vbtc_cover.png",
+    "page": "virginia_beach_town_square.html"
+  },
+	
+	
+	{
+    "id": "air-rights-development-study",
+    "title": "MBTA Air Rights Development Study",
+    "category": "Architecture",
+    "year": 2002,
+    "featured": 6,
+    "location": "Boston, Massachusetts",
+    "summary": "A design study exploring how mixed uses can be assembled vertically within a connected urban block framework.",
+    "capabilities": [
+      "Technical and Visual Communication",
+      "Systems and Implementation",
+	  "Spatial Design"
+    ],
+    "role": "Architect / urban designer",
+    "challenge": "",
+    "approach": "",
+    "outcome": "",
+    "image": "assets/MBTA_cover.png",
+    "page": "north-station-development.html"
+  },
+	
+{
+    "id": "hybrid-church-office-building",
+    "title": "Hybrid Church/Office Building",
+    "category": "Spatial Design",
+    "year": 1996,
+    "featured": 7,
+    "location": "New York, New York",
+    "summary": "A study of Manhattan churches as the analytical basis for a new church on a small site beside the former World Trade Center.",
+    "capabilities": [
+      "Technical and Visual Communication",
+      "Spatial Design"
+    ],
+    "role": "Architect",
+    "challenge": "",
+    "approach": "",
+    "outcome": "",
+    "image": "assets/church-study/tower-cover.png",
+    "page": "manhattan-church-study.html"
+  },
+	
+	
+	
+  {
+    "id": "comprehensive-plan-land-use-data",
+    "title": "Comprehensive Plan Land Use Data",
+    "category": "Information Design",
+    "year": 2026,
+    "featured": 8,
+    "location": "Frederick County, Maryland",
+    "summary": "An interactive visualization for comparing land-use acreage across community growth areas.",
+    "capabilities": [
+      "Visual Communication",
+      "Systems & Implementation"
+    ],
+    "role": "Information designer / planner",
+    "challenge": "Make a large set of land-use acreage data understandable across multiple growth areas.",
+    "approach": "Combined an interactive map with selectable land-use categories and comparative bar-chart views.",
+    "outcome": "A compact visual tool for exploring geographic and land-use patterns interactively.",
+    "image": "assets/compplandata-card.svg",
+    "page": "compplandata.html"
+  },
+  {
+    "id": "county-worker-flow",
+    "title": "County-to-County Worker Flow",
+    "category": "Information Design",
+    "year": 2026,
+    "featured": 8,
+    "location": "Mid-Atlantic Region",
+    "summary": "An interactive map for exploring residence-to-workplace commuter flows among counties in the region.",
+    "capabilities": [
+      "Visual Communication",
+      "Systems & Implementation"
+    ],
+    "role": "Information designer",
+    "challenge": "Show directional commuting relationships without reducing the data to a static table.",
+    "approach": "Built an interactive origin-destination map with selectable residence and workplace counties.",
+    "outcome": "A direct way to isolate and compare regional worker-flow relationships.",
+    "image": "assets/workerflow-card.svg",
+    "page": "workerflow.html"
+  }
+]
